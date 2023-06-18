@@ -3,11 +3,11 @@
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
--Münevver Yiyit- 3D designer ve level design
--Hasan Şahin - 3D designer ve level design  
--Esra Yüksekkayalı- Scrum Master 
--Enes Emre Yılmaz - Developer 
--Yusuf Kasap - Product Owner
+- Münevver Yiyit- Developer
+- Hasan Şahin - Developer 
+- Esra Yüksekkayalı- Scrum Master 
+- Enes Emre Yılmaz - Developer 
+- Yusuf Kasap - Product Owner
 
 ## Ürün İsmi
 Back in Time:Kairos 
