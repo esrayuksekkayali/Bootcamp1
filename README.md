@@ -62,3 +62,41 @@ Back in Time : Kairos adlı oyunumuz M.Ö 900'lü yıllardan M.S 3000'li yıllar
  
 
 
+
+  # Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![WhatsApp Görsel 2023-07-02 saat 23 44 19](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/5d7c4908-5f15-4693-aa88-abb337d224d3)
+
+
+- **Sprint board update**: Sprint board screenshotları:![Ekran Görüntüsü (300)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/9db75d74-87ef-49d6-82c2-5e6a23bfd615)
+![Ekran Görüntüsü (299)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/74eb5d39-6574-465d-845d-2b5e7f66c7f6)
+
+- **Ürün Durumu**: Ekran görüntüleri:![Ekran Görüntüsü (301)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/a0cb2c83-6d8e-48a1-a1d5-f73db00deaae)
+
+
+
+  - **Sprint Review**: 
+Alınan kararlar: Oyunun animasyonları hazırlanmış , tasarımlar tamamlanmış , algoritmaları kodlanmış,  ve eksiklikleri değerlendirilmiştir. 
+Sprint Review katılımcıları: Hasan Şahin , Enes Emre Yılmaz , Münevver Yiyit , Esra Yüksekkayalı , Yusuf Kasap
+
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+ 
+  ## Product Backlog URL
+  [Bootcamp U-25] (https://miro.com/app/board/uXjVM9yWYrE=/)
+  
+
+  
+
+
+
+
+
+
+ 
+
+
