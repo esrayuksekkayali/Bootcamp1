@@ -88,6 +88,32 @@ Sprint Review katılımcıları: Hasan Şahin , Enes Emre Yılmaz , Münevver Yi
  
   ## Product Backlog URL
   [Bootcamp U-25] (https://miro.com/app/board/uXjVM9yWYrE=/)
+
+
+  # Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:![Ekran Görüntüsü (302)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/5065c59d-3aac-41b9-9887-93f76e86f0aa)
+- **Sprint board update**: Sprint board screenshotları:![Ekran Görüntüsü (306)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/7f1c04e2-a5cd-4cb4-bebc-459c0364510c)
+![Ekran Görüntüsü (305)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/15076cae-76c8-47c6-9a5c-f62a7045eab6)
+- **Ürün Durumu**: Ekran görüntüleri:![Ekran Görüntüsü (304)](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/138fe7ff-19e6-4351-86a3-c56f8f4c97db)
+![WhatsApp Görsel 2023-07-17 saat 23 13 49](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/53efa256-1716-4625-a7ea-6ab2b52c0109)
+![WhatsApp Görsel 2023-07-17 saat 23 12 42](https://github.com/esrayuksekkayali/Bootcamp1/assets/136228138/f362b6e9-7001-428b-b3b2-5cb478113737)
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Sprint Review katılımcıları: Esra Yüksekkayalı , Yusuf Kasap , Münevver Yiyit , Enes Emre Yılmaz , Hasan Şahin
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+
+---
+
+
   
 
   
